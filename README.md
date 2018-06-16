@@ -1,5 +1,7 @@
 # Laravel - Login, Registration, Email Verification
 
+[![Build Status](https://scrutinizer-ci.com/g/shreyansjain33/laravel-login-registation/badges/build.png?b=master)](https://scrutinizer-ci.com/g/shreyansjain33/laravel-login-registation/build-status/master)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/shreyansjain33/laravel-login-registation/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/shreyansjain33/laravel-login-registation/?branch=master)  [![Code Intelligence Status](https://scrutinizer-ci.com/g/shreyansjain33/laravel-login-registation/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+
 A simple [Laravel 5.6](http://www.laravel.com/) application template to start with. It implements basic features like:
 * User Registration
 * Email Account Verification
