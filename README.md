@@ -26,6 +26,9 @@ In Windows, you'll need to include the GD2 DLL `php_gd2.dll` in php.ini. And you
 After composer and dependencies/packages installation, copy the .env file `cp .env.example .env`.  
 Generate the unique application key `php artisan key:generate`.  
 
+** Issues
+1) Create a folder named `views` at `storage/framework/`.
+
 
 ## Running
 
